@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+financial_report.index
+chunk_metadata.pkl
+chunks.json
+annual_report.pdf
